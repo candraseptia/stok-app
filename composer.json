@@ -1,0 +1,15 @@
+{
+    "name": "candraseptia/stok-app", 
+    "type": "project",
+    "authors": [
+        {
+            "name": "candraseptia",
+            "email": "akanggebot12@gmail.com",
+            "role": "programmer"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^6.5"
+    },
+    "version": "0.5"
+}
